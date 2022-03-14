@@ -1,2 +1,3 @@
 # plot_point_ts_InSAR
 plot_time_series_mat：根据GAMMA软件的v2_disp命令输出的点时序文件，将其整理成一个文件夹，利用matlab程序将文件夹中的若干点时序文件绘制在一个图形界面中；
+plot_point_gis_ts程序是基于python，主要用途是用于根据ArcMap中的点图层输出的属性表（txt格式）绘制时序图。
